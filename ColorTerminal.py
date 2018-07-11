@@ -5,6 +5,9 @@
 # Debugging: SavSec, PotatoGod
 # API Script: SavSec
 
+# Sorry I couldnt find time to update this!
+# Im a bit busy but hopefully I can find time to work on this!
+
 import clipboard, random, sys, os, time, console, traceback
 
 verbose = False
